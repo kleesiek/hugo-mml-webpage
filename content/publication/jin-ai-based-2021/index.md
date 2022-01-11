@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-11T20:57:34.426271Z'
+publishDate: '2022-01-11T21:09:31.785147Z'
 publication_types:
 - '2'
 abstract: The aortic vessel tree is composed of the aorta and its branching arteries,
