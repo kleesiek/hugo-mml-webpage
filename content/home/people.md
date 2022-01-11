@@ -1,3 +1,8 @@
+---
+widget: people
+widget_id: Team
+weight: 20
+---
 widget: people
 headless: true  # This file represents a page section.
 
