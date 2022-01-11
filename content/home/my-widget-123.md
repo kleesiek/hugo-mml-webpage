@@ -1,5 +1,5 @@
 ---
-widget: People
+widget: people
 widget_id: People
 headless: true
 weight: 10
