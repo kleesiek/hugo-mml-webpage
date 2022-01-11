@@ -21,7 +21,7 @@ tags:
 - Electrical Engineering and Systems Science - Image and Video Processing
 categories: []
 date: '2021-08-01'
-lastmod: 2022-01-11T21:57:34+01:00
+lastmod: 2022-01-11T22:13:13+01:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-11T21:09:31.785147Z'
+publishDate: '2022-01-11T21:13:12.947648Z'
 publication_types:
 - '2'
 abstract: The aortic vessel tree is composed of the aorta and its branching arteries,
