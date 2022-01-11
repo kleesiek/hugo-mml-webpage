@@ -1,9 +1,5 @@
 ---
 widget: people
-widget_id: Team
-weight: 20
----
-widget: people
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -27,3 +23,4 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
+--- 
