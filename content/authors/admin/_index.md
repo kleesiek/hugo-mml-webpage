@@ -1,4 +1,6 @@
 ---
+user_groups: ["Principal Investigators"]
+
 # Display name
 title: Nelson Bighetti
 
