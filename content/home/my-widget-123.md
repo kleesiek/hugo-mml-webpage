@@ -1,6 +1,6 @@
 ---
 widget: People
-widget_id: my-widget-123
+widget_id: People
 headless: true
 weight: 10
 active: true
